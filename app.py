@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fthefusioneer.com%2Fblog%2Fthe-future-of-ai-5-ai-advancements-to-expect-in-the-next-10-years%2F&psig=AOvVaw2LUUPtsPf0DY6OIUf3w7SN&ust=1738448947584000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDOhoCBoYsDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App") 
+st.image("https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg", caption="AI-Powered Streamlit App") 
 import requests
 import json
 import base64
